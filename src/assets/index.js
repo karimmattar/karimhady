@@ -35,6 +35,11 @@ import xpovi from './projects/xpovi.jpeg';
 import knowvte from './projects/knowvte.png';
 import femto from './projects/femto.png';
 import lms from './projects/lms.png'
+import ess from './projects/ess.png'
+import essb from './projects/essb.png'
+import curaegypt from './projects/curaegypt.png'
+import alexcure from './projects/alexcure.png'
+import unilearn from './projects/unilearn.png'
 
 // Avatar
 import avatar from './avatar/avatar.png';
@@ -63,5 +68,10 @@ export {
   femto,
   avatar,
   karim,
-  lms
+  lms,
+  ess,
+  essb,
+  curaegypt,
+  alexcure,
+  unilearn,
 };

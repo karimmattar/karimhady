@@ -44,6 +44,11 @@ import {
   femto,
   avatar,
   lms,
+  ess,
+  essb,
+  curaegypt,
+  alexcure,
+  unilearn,
 } from '../assets';
 
 library.add(faX, faBars, faWindowRestore, faBagShopping, faDiceD6);
@@ -131,6 +136,48 @@ const projects = [
     image: knowvte,
     source_code_link: 'https://github.com/Conference-Organizing-Bureau-COB/gahar',
     demo_link: 'https://knowvte.com',
+  },
+  {
+    name: 'LMS',
+    description: 'Online courses platform.',
+    image: lms,
+    source_code_link: 'https://github.com/Conference-Organizing-Bureau-COB/LMS-DR-Shereef',
+    demo_link: 'https://sherifelhawary.com',
+  },
+  {
+    name: 'ESS',
+    description: 'The Egyptian Society of Surgeons - ESS.',
+    image: ess,
+    source_code_link: 'https://github.com/Conference-Organizing-Bureau-COB/new_ess',
+    demo_link: 'https://ess-egy.org',
+  },
+  {
+    name: 'ESSB',
+    description: 'The Egyptian Scientific Society of Bronchology - ESSB.',
+    image: essb,
+    source_code_link: 'https://github.com/Conference-Organizing-Bureau-COB/essb',
+    demo_link: 'https://essb-eg.org',
+  },
+  {
+    name: 'CuraEgypt',
+    description: 'The hospital management hopes to reach the level of service in the specialties available in it, to be a pioneer in the fields of gastrointestinal and orthopedic surgeries.',
+    image: curaegypt,
+    source_code_link: 'https://github.com/Conference-Organizing-Bureau-COB/cura-elnasr-hospital',
+    demo_link: 'https://curaegypt.com',
+  },
+  {
+    name: 'AlexCure',
+    description: 'Online hospitality Servises.',
+    image: alexcure,
+    source_code_link: 'https://github.com/Conference-Organizing-Bureau-COB/ALEX_CURE',
+    demo_link: 'https://alex-cure.com',
+  },
+  {
+    name: 'Unilearn',
+    description: 'UniLearn empowers learners and trainers with latest technology to build and assess their skills in schools, universities and companies.',
+    image: unilearn,
+    source_code_link: 'https://github.com/karimmattar/unilearn',
+    demo_link: 'https://unilearn.com.eg/home-page',
   },
 ];
 
